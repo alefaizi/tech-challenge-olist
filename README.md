@@ -32,8 +32,9 @@ Schema:
 ## Como executar
 
 1. Baixe os dados no Kaggle e coloque os CSVs na pasta `data/raw`
-2. Instale as dependências: `pip install -r requirements.txt`
-3. Execute os notebooks na ordem numérica
+2. Crie e pasta `data/processed`
+3. Instale as dependências: `pip install -r requirements.txt`
+4. Execute os notebooks na ordem numérica
 
 ## Resultados
 
