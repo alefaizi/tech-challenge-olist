@@ -24,12 +24,14 @@ Schema:
 ## Estrutura do repositório
 
 - `notebooks/01_recon.ipynb`: reconhecimento das tabelas e decisões sobre os dados
-- `data/`: pasta dos CSVs (não versionada)
+- `notebooks/02_limpeza.ipynb`: limpeza e organização dos dados
+- `data/raw`: pasta dos CSVs com dados brutos (não versionada)
+- `data/processed`: pasta dos CSVs após as limpezas (não versionada)
 - `img/`: imagens do projeto
 
 ## Como executar
 
-1. Baixe os dados no Kaggle e coloque os CSVs na pasta `data/`
+1. Baixe os dados no Kaggle e coloque os CSVs na pasta `data/raw`
 2. Instale as dependências: `pip install -r requirements.txt`
 3. Execute os notebooks na ordem numérica
 
