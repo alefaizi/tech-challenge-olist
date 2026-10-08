@@ -16,7 +16,9 @@ Perguntas de apoio:
 
 Brazilian E-Commerce Public Dataset by Olist, com cerca de 100 mil pedidos entre 2016 e 2018.
 
-Fonte: [\[Kaggle\]](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+Recorte da análise: pedidos entregues de jan/2017 a ago/2018 (decisões documentadas em `notebooks/01_recon.ipynb`)
+
+Fonte: [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 Schema:
 ![Schema das tabelas](img/schema.png)
@@ -31,8 +33,10 @@ Schema:
 
 ## Como executar
 
+Requer Python 3.13 (versão utilizada no projeto)
+
 1. Baixe os dados no Kaggle e coloque os CSVs na pasta `data/raw`
-2. Crie e pasta `data/processed`
+2. Crie a pasta `data/processed`
 3. Instale as dependências: `pip install -r requirements.txt`
 4. Execute os notebooks na ordem numérica
 
@@ -42,6 +46,6 @@ Em construção.
 
 ## Autor
 
-Alexandre Faizibaioff
-LinkedIn: https://www.linkedin.com/in/alexandrecsf/
-Portfólio: https://alexandrecsf.my.canva.site/
+- Alexandre Faizibaioff
+- LinkedIn: https://www.linkedin.com/in/alexandrecsf/
+- Portfólio: https://alexandrecsf.my.canva.site/
