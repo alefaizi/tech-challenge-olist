@@ -27,6 +27,7 @@ Schema:
 
 - `notebooks/01_recon.ipynb`: reconhecimento das tabelas e decisões sobre os dados
 - `notebooks/02_limpeza.ipynb`: limpeza e organização dos dados
+- `notebooks/03_analise.ipynb`: análise dos dados, resposta da pergunta de negócio e das perguntas de apoio 
 - `data/raw`: pasta dos CSVs com dados brutos (não versionada)
 - `data/processed`: pasta dos CSVs após as limpezas (não versionada)
 - `img/`: imagens do projeto
