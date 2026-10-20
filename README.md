@@ -10,7 +10,7 @@ Perguntas de apoio:
 - As vendas estão crescendo? -> Analisar a evolução mensal dos pedidos e valor vendido
 - Os clientes estão satisfeitos? -> Analisar review score
 - O que prejudica a satisfação de um cliente? -> Analisar prazo de entrega x review_score
-- Onde estão as oportunidades? -> Olhar categorias e regiões com melhor/pior desempenho
+- Onde estão as oportunidades? -> Analisar categorias e/ou regiões com melhor/pior desempenho
 
 ## Dados
 
