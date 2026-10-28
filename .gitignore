@@ -1,4 +1,4 @@
-# dados brutos (baixar do Kaggle)
+# dados (brutos, processados e resultados; gerados ao rodar os notebooks)
 data/
 
 # arquivos automáticos do Jupyter
@@ -17,3 +17,6 @@ venv/
 
 # variáveis de ambiente e senhas
 .env
+
+# arquivos temporários do Office (ex.: ~$apresentacao_olist.pptx)
+~$*
